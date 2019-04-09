@@ -1,0 +1,40 @@
+ #firstline
+{
+	background-color:#6C757D;
+	height:38px;
+	font-size:10px;
+}
+.col-sm-6 a
+{	
+	font-size:13px;
+	padding:14px;
+	color:#FFFFFF;
+}
+.col-sm-6
+{
+	margin-top:6px;
+}
+.col-sm-6 p
+{
+	font-size:13px;
+	color:#FFFFFF;
+	margin-top:3px;
+}
+#navbar
+{
+	background:#F8F9FA;
+	height:75px;
+}
+.col-sm-3 img
+{
+	margin-top:7px;
+}
+.nav li a
+{
+	color:#7D7D7D;
+	font-size:14px;
+     padding:10px;
+	margin-top:11px;
+}
+
+	

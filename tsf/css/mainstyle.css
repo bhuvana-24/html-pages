@@ -1,0 +1,21 @@
+#header
+{
+	background-color:darkblue;
+	color:white;
+}
+#header #color
+{
+	padding:50px;
+	text-align:left;
+
+}
+#cols
+{
+	padding:50px;
+	float:left;
+	height:700px;
+}
+#names
+{
+     margin:10px;
+}

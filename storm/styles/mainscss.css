@@ -1,0 +1,224 @@
+*{
+	margin:0 ;
+	padding:0;
+}
+#bodyarea
+{
+	width:1024px;
+	margin:0 auto;
+}
+#topnav
+{
+	height:40px;
+	background:#F9F9FB;
+	border-bottom:1px solid #e5e5e5;
+}
+#telephone
+{  
+	float:left;
+	width:340px;
+
+}
+#tele1
+{
+	margin-top:9px;
+	padding-left:20px;
+	
+}
+#tele1 span
+{
+	border-left:1px solid black;
+	padding-right:5px;
+	color:#ec4c4b;	
+}
+
+#marquee
+{
+    width:340px;
+	padding-top:5px;
+	color:#343434;
+}
+#follow1
+{
+	margin-bottom:10px;
+	float:right;
+}
+#follow1 ul
+{
+	list-style:none;
+}
+#follow1 ul li
+{
+	float:right;
+	border:1px solid black;
+	padding:2px;
+	margin:3px;
+	margin-bottom:10px;
+	
+}
+#logoarea
+{
+	height:90px;
+}
+#logo
+{
+	padding-left:10px;
+	float:left;
+}
+#logo1
+{
+	float:right;
+	margin-top:35px;
+}
+#logo1 span
+{
+	padding:5px;
+	border:1px solid black;
+	margin:3px;
+	
+}
+#menu 
+{
+	height:40px;
+	background:grey;
+	border-bottom:2px solid red;
+}
+#mitems ul 
+{
+	list-style:none;
+	padding-left:20px;
+}
+#mitems ul li
+{
+	float:left;
+	line-height:39px;
+	border-right:1px solid white;
+	width:130px;
+	text-align:center;
+}
+#menu ul li a
+{
+	text-decoration:none;
+	color:white;
+	font-size:15px;
+}
+#menu ul li:hover
+{
+	background:red;
+}
+#sliderimg
+{
+	margin-left:0px;
+	
+}
+.topdivs
+{
+	width:260px;
+	float:left;
+	margin-left:50px;
+}
+.topdivs ul li {
+	float:left;
+    list-style:none;
+	padding:1px;
+}
+.subdivs
+{
+	float:left;
+}
+.subdivs ul{
+	list-style:none;
+}
+.subdivs ul li{
+	float:left;
+	padding:4px;
+	border:1px solid grey;
+	height:22px;
+	margin-right:3px;
+	background:#ffffff;
+}
+.subdivs p{
+	margin-top:10px;
+}
+#contentleft
+{
+	width:750px;
+    margin:8px;
+    padding:0px;
+    float: left;
+	margin-left:0px;
+}
+#head
+{
+	color:#FFFFF;
+	text-align:center;
+	margin-top:15px;
+	padding-right:5px;
+}
+#imgcon
+{
+	margin-top:20px;
+	height:170px;
+	width:750px;
+	float:left;
+}
+.con
+{
+	float:left;
+	padding-top:12px;
+}
+.img p
+{
+	padding-left:5px;
+	text-align:justify;
+	margin-top:2px;
+	color:#878787;
+}
+
+#last
+{	margin-top:230px;
+	height:700px;
+	width:750px;
+}
+#last1
+{
+	margin:5px;
+	margin-top:15px;
+	width:170px;
+	margin-left:10px;
+	float:left;
+}
+.supdiv1
+{
+	color:#787878;
+}
+.supdiv2
+{
+	margin-top:25px;
+	margin-left:2px;
+}
+.supdiv3
+{
+	margin-top:40px;
+	color:#878787;
+}
+.contentright	
+{
+	width:240;
+	height:auto;
+    float:right;
+}
+
+.headerright 
+{
+	background:red;
+	float:right;
+}
+ .rig-img li
+{
+	list-style:none;
+}
+
+
+	
+	
